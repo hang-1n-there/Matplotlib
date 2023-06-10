@@ -7,5 +7,5 @@ plt.ylabel('Y-label')
 
 plt.legend(loc='best',ncol=2)
 plt.axis([1,4,3,11])
-
+plt.axis('square')
 plt.show()
